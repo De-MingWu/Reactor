@@ -4,7 +4,8 @@
 运行环境 ubuntu24.04 腾讯云服务器
 
 注意cmake版本
-'''
+
+'''Linux
 mkdir build && cd build
 '''
 
