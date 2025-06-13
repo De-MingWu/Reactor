@@ -5,14 +5,13 @@
 
 注意cmake版本
 
-'''Linux
+```
 mkdir build && cd build
-'''
-
-'''
+```
+```
 cmake ..
-'''
+```
 
-'''
+```
 make
-'''
+```
